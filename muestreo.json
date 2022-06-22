@@ -1,4 +1,4 @@
 [
-  {"url":"humedal.wav","type":"audio","bank":"abc","n":0},
-  {"url":"metro.wav","type":"audio","bank":"abc","n":1}
+  {"url":"hum.wav","type":"audio","bank":"abc","n":0},
+  {"url":"met.wav","type":"audio","bank":"abc","n":1}
 ]
