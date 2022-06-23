@@ -1,4 +1,5 @@
 [
   {"url":"hum.wav","type":"audio","bank":"and","n":0},
-  {"url":"met.wav","type":"audio","bank":"and","n":1}
+  {"url":"met1.wav","type":"audio","bank":"and","n":1},
+  {"url":"met2.wav","type":"audio","bank":"and","n":2}
 ]
